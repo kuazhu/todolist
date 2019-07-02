@@ -16,7 +16,7 @@
 
 ## 计划
 
-## Day1
+### Day1
 
 - WEB运行原理介绍 [MDN参考](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
@@ -26,24 +26,24 @@
     - [NodeJs中文文档参考](http://www.nodejs.cn)
 - NodeJs文件处理,文件的读写(异步) 
 
-## Day2 
+### Day2 
 
 - 处理静态资源,响应头mimeType的设置[MDN mime type参考](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
 
 - TodoList项目静态页面开发
 
-## Day3 
+### Day3 
 - 模块化,获取数据方法封装
 - NodeJs模版处理,swig模版使用
 - 显示项目列表
 
-## Day4
+### Day4
 - 添加/删除项目
     - 客户端发送ajax
     - 服务端处理文件并返回结果
     - 客户端操作DOM
 
-## Day 5
+### Day 5
 - MVC介绍
 - MVC重构TodoList项目
 - 总结和展望
