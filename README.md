@@ -18,18 +18,13 @@
 
 ## Day1
 
-- WEB运行原理介绍
+- WEB运行原理介绍 [MDN参考](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
-[MDN参考](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
-
-
-### 用NodeJs搭建WEB服务器
-- NodeJs介绍和安装 [NodeJs官网](http://www.nodejs.org)
-
-- [NodeJs中文文档](http://www.nodejs.cn)
-
-### NodeJs文件处理
-- 文件的读写(异步)
+- 用NodeJs搭建WEB服务器
+    - NodeJs介绍和安装,参考[NodeJs官网](http://www.nodejs.org)
+    - WEB服务器程序开发
+    - [NodeJs中文文档参考](http://www.nodejs.cn)
+- NodeJs文件处理,文件的读写(异步) 
 
 ## Day2 
 
