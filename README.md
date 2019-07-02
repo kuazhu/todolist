@@ -23,9 +23,9 @@
 
 
 ### 用NodeJs搭建WEB服务器
-[NodeJs官网](http://www.nodejs.org)
+- NodeJs介绍和安装 [NodeJs官网](http://www.nodejs.org)
 
-[NodeJs中文文档](http://www.nodejs.cn)
+- [NodeJs中文文档](http://www.nodejs.cn)
 
 ### NodeJs文件处理
 - 文件的读写(异步)
@@ -33,7 +33,7 @@
 ## Day2 
 
 ### 处理静态资源
-- 响应头mineType的设置
+- 响应头mimeType的设置[MDN mime type参考](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
 
 ### TodoList项目静态页面开发
 
@@ -41,7 +41,7 @@
 ### NodeJs模版处理
 - swig模版使用
 
-### 显示项目
+### 显示项目列表
 - 模块化
 
 ## Day4
