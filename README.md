@@ -18,7 +18,8 @@
 
 ## Day1
 
-### WEB运行原理介绍
+- WEB运行原理介绍
+
 [MDN参考](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
 
@@ -32,30 +33,25 @@
 
 ## Day2 
 
-### 处理静态资源
-- 响应头mimeType的设置[MDN mime type参考](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
+- 处理静态资源,响应头mimeType的设置[MDN mime type参考](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
 
-### TodoList项目静态页面开发
+- TodoList项目静态页面开发
 
 ## Day3 
-### NodeJs模版处理
-- swig模版使用
-
-### 显示项目列表
-- 模块化
+- 模块化,获取数据方法封装
+- NodeJs模版处理,swig模版使用
+- 显示项目列表
 
 ## Day4
-### 添加/删除项目
-- 发送ajax
-- 文件处理
-- 前台DOM操作
+- 添加/删除项目
+    - 客户端发送ajax
+    - 服务端处理文件并返回结果
+    - 客户端操作DOM
 
 ## Day 5
-### MVC介绍
-
-### MVC重构TodoList项目
-
-### 总结和展望
+- MVC介绍
+- MVC重构TodoList项目
+- 总结和展望
 
 
 
