@@ -1,6 +1,4 @@
-# Summer Practice
-
-2019暑期实践
+# ToDoList
 
 ## 适合人群
 - 热爱编程
@@ -15,7 +13,6 @@
 - 前后台交互
 - MVC以及NodeJs实现一个小型MVC框架
 - 常用的WEB开发技巧
-
 
 ## 计划
 
