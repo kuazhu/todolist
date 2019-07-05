@@ -36,7 +36,7 @@
 - 发送ajax
 - 路由处理
 - 模块化,获取数据方法封装
-- NodeJs模版处理,swig模版使用
+- NodeJs模版处理,[swig模版](https://github.com/paularmstrong/swig)使用
 - 显示项目列表
 
 ### Day4
