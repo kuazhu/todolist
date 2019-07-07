@@ -47,7 +47,23 @@
 
 ### Day 5
 - MVC介绍
+
+    MVC是一种软件开发模型,主要思想是将业务逻辑按职责分离
+
+    - M(Model),模型,数据相关的操作和封装
+    - V(View),视图,数据的展示,页面渲染
+    - C(Controller),控制器,一组行为(action)的集合
+
+- MVC 工作模式
+    - 客户端用户发送请求
+    - 模型框架负责路由解析,根据路由寻找对应的控制器(Controller)和行为(action)
+    - 行为(action)调用相关的模型(Model)进行数据操作
+    - 行为(action)根据数据操作的结果调用视图(View)进行页面的渲染,输出到客户端
+
+![](./resource/mvc.png)
+
 - MVC重构TodoList项目
+
 - 总结和展望
 
 
