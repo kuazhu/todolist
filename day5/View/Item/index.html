@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ToDoList</title>
+    <link rel="stylesheet" href="/static/css/index.css">
+</head>
+<body>
+    <div class="container">
+        <div class="head">
+            <h1>ToDoList</h1>
+            <input type="text" autocomplete="off" class="input-item">
+        </div>
+        <div class="doing-item">
+            <h2>正在进行的任务</h2>
+            <ul>
+                {% for item in data %}
+                <li class="todo-item" data-id="{{ item.id }}">{{ item.task }}</li>
+                {% endfor %}
+            </ul>
+        </div>    
+    
+
+    </div>
+
+    <script src="/static/js/jquery.min.js"></script>
+    <script src="/static/js/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+/*
+* @Author: TomChen
+* @Date:   2019-07-04 09:41:45
+* @Last Modified by:   TomChen
+* @Last Modified time: 2019-07-04 10:26:40
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+body{
+    background-color: #ccc;
+}
+.container{
+    width: 960px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.head{
+    margin-bottom: 30px;
+}
+.head h1{
+    margin-bottom: 30px;
+}
+.head .input-item{
+    width: 100%;
+    height: 60px;
+    box-sizing: border-box;
+    padding: 10px 5px;
+    outline: none;
+    font-size: 24px;
+
+}
+
+.doing-item .todo-item{
+    width: 100%;
+    line-height: 40px;
+    background-color: #fff;
+    margin-top: 10px;
+    box-sizing: border-box;
+    padding-left: 10px;
+    border-left: 2px solid #f68;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.doing-item .todo-item:hover{
+    background-color: #eee;
+}
